@@ -1,9 +1,9 @@
 {
-  "name": "chat-example",
+  "name": "fccrhp",
   "version": "0.0.0",
-  "description": "A chat example to showcase how to use `socket.io` with a static `express` server with `async` for control flow.",
+  "description": "A sight that displays a user's IP address, language, and the type of device being used.",
   "main": "server.js",
-  "author": "Mostafa Eweda <mo.eweda@gmail.com>",
+  "author": "Jack Brierty",
   "dependencies": {
     "async": "~0.2.8",
     "express": "~3.2.4",
