@@ -12,6 +12,5 @@
   "scripts": {
     "start": "node server.js"
   },
-  "devDependencies": {},
   "license": "ISC"
 }
